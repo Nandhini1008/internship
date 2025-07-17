@@ -125,8 +125,7 @@ npm run dev
   ```
 - **Response:**
   ```json
-  { "result": "positive" }
-  // or
+  { "result": "positive" } or 
   { "result": "negative" }
   ```
 
@@ -142,5 +141,5 @@ npm run dev
 ---
 
 ## 📬 Contact & Credits
-- Built by [Your Name/Team]
+- Built by Nandhini Prakash
 - For demo/educational use only. Not for medical advice.
